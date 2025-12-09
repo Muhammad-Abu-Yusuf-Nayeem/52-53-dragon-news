@@ -6,3 +6,8 @@
 body {
   font-family: "Poppins", sans-serif;
 }
+
+a.active {
+  background-color: #dbdbdb;
+  font-weight: 600;
+}
